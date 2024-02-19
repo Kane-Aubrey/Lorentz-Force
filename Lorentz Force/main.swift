@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
-print("Hello, World!")
+var message = "hello world"
+print(message)
 
 //yooooooooooo
